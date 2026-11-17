@@ -1,0 +1,5 @@
+Coloca aqui la cancion con este nombre exacto:
+
+    perfect-duet.mp3
+
+(Perfect Duet - Ed Sheeran y Beyonce). Si usas otro nombre, cambialo en index.html en la linea <audio id="musica" src="audio/perfect-duet.mp3">.
